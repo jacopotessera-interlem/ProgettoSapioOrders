@@ -1,0 +1,24 @@
+.verde {
+  color: green !important; }
+
+.giallo {
+  color: orange !important; }
+
+.rosso {
+  color: red !important; }
+
+.titolo {
+  background-color: #307ecc;
+  color: white;
+  padding-bottom: 1px !important;
+  padding-left: 10px !important;
+  padding-top: 1px !important;
+  margin: 0 !important; }
+
+#info_table {
+  border-collapse: collapse;
+  border: 1px solid gray;
+  width: 100%; }
+
+.yui3-datatable-header {
+  color: white; }

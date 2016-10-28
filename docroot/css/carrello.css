@@ -1,0 +1,13 @@
+#carrello_tabella .yui3-datatable-col-prezzo {
+	width: 100px;
+	text-align: right !important;
+}
+
+#carrello_tabella .yui3-datatable-col-quantita {
+	text-align: right !important;
+	width: 60px;
+}
+
+#totale {
+	font-weight: bold;
+}

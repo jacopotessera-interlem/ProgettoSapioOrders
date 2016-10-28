@@ -1,0 +1,71 @@
+.div-menu-max {
+  width: 302px;
+  height: 120px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  display: inline-block !important;
+  position: relative; }
+
+.div-dark-max {
+  width: 302px;
+  height: 120px;
+  background-color: black;
+  position: absolute; }
+
+.div-menu-min {
+  width: 145px;
+  height: 120px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  display: inline-block !important;
+  position: relative; }
+
+.div-dark-min {
+  width: 145px;
+  height: 120px;
+  background-color: black;
+  position: absolute; }
+
+#p_p_id_menu_WAR_SapioMockupportlet_ {
+  display: none; }
+
+.span-menu {
+  color: white;
+  font-size: 12px;
+  margin: 5px 20px 2px 5px; }
+
+.divnome-menu {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 0px !important; }
+
+.divlogo-max-menu {
+  position: absolute;
+  top: 28%;
+  left: 41%;
+  margin: 0px !important; }
+
+.divlogo-min-menu {
+  position: absolute;
+  top: 28%;
+  left: 32%;
+  margin: 0px !important; }
+
+.menu-portlet {
+  z-index: 500;
+  position: absolute; }
+
+.menu-icons {
+  height: 50px;
+  width: auto;
+  position: absolute; }
+
+.menu-hover-pointer {
+  cursor: pointer; }
+
+.dark-opacity {
+  opacity: 0.2; }
+
+.light-opacity {
+  opacity: 0; }

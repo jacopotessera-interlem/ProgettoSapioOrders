@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE display PUBLIC "-//Liferay//DTD Display 7.0.0//EN" "http://www.liferay.com/dtd/liferay-display_7_0_0.dtd">
+
+<display>
+	<category name="Sviluppo">
+		<portlet id="ordini"></portlet>
+		<portlet id="chi-siamo"></portlet>
+		<portlet id="contatti"></portlet>
+		<portlet id="come-contattarci"></portlet>
+		<portlet id="invia-mail"></portlet>
+		<portlet id="notifiche"></portlet>
+		<portlet id="prodotti"></portlet>
+		<portlet id="ordini"></portlet>
+		<portlet id="carrello"></portlet>
+		<portlet id="menu"></portlet>
+	</category>
+	<category name="category.sample">
+		<portlet id="menuaui"></portlet>
+		<portlet id="benvenuto"></portlet>
+	</category>
+</display>

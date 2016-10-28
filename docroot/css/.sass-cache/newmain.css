@@ -1,0 +1,86 @@
+/*main.css*/
+.titolo {
+  background-color: #307ecc !important;
+  color: white !important;
+  padding-bottom: 5px !important;
+  padding-left: 10px !important;
+  padding-top: 1px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+
+.tabella {
+  border-collapse: collapse !important;
+  border: 0;
+  width: 100%; }
+
+td {
+  vertical-align: middle !important; }
+
+.tabella th, .tabella td {
+  border-collapse: collapse !important;
+  border-left: 1px solid #cbcbcb;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 1px solid #cbcbcb; }
+
+tr:last-child td {
+  border-bottom: 0 !important; }
+
+td:first-child {
+  border-left: 0 !important; }
+
+.verde {
+  color: green !important; }
+
+.giallo {
+  color: orange !important; }
+
+.rosso {
+  color: red !important; }
+
+.focus {
+  border: 2px solid orange;
+  outline: none; }
+
+.mouseover > td {
+  background-color: #eff3f8 !important; }
+
+.selected > td {
+  background-color: #C7D3A9 !important; }
+
+/*notifiche.css*/
+#notifiche_tabella {
+  color: black;
+  width: 100%;
+  border: 0 !important; }
+
+#notifiche_tabella .yui3-datatable-table {
+  border: 0 !important; }
+
+#notifiche_tabella th, #notifiche_tabella td {
+  border: 1px solid white;
+  border-left: 0;
+  border-right: 0; }
+
+#notifiche_tabella .yui3-datatable-columns {
+  display: none; }
+
+.letto > td {
+  background-color: #dfdfdf !important;
+  color: #3f3f3f !important; }
+
+.nonletto > td {
+  background-color: #fff !important; }
+
+td.yui3-datatable-col-Letto.yui3-datatable-cell {
+  display: none; }
+
+td.yui3-datatable-col-Titolo.yui3-datatable-cell {
+  font-weight: bold; }
+
+td.yui3-datatable-col-Data.yui3-datatable-cell {
+  width: 75px; }
+
+/**/
